@@ -20,30 +20,6 @@ fn main() {
 ```
 
 
-# Rust Engineer ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-<p> 
-    Master: <br />
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
-    <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="linux" width="60" height="60"/>
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="60" height="60"/>
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
-</p>
-<p align="center">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>  
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>     
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>  
-    <img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-    <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="linux" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>    
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
-</p>
-
 <!--
 <p align="center">
 <a class='github-status' href='https://github.com/xfactor-toml'>
