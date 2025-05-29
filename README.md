@@ -51,14 +51,7 @@ fn main() {
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<!-- [![Michel's current streak](https://streak-stats.demolab.com/?user=bjmmtin&count_private=true&theme=blue-green&title_color=00b3ff)](#) -->
 
- [![Michel's github stats](https://bad-apple-github-readme.vercel.app/api?username=0xtecasinoa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=0xtecasinoa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=0xtecasinoa)](#)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=bjmmtin)](#)
 
