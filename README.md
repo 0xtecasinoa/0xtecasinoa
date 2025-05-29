@@ -1,14 +1,14 @@
-# Favorite Saying 👍
+# 好きな言葉 👍
 
-```rust
+```AI & Web & APP
 /// 0xtecasinoa's motto
 struct BillGates;
 
 impl BillGates {
   /// Return Bill Gates quote
   fn said(&self) -> &str {
-    "Measuring programming progress by lines of codes \
-    is like measuring aircraft building progress by weight."
+    "コードの行数でプログラムの進捗を測るのは \
+    飛行機の完成度を重さで測るようなものだ。"
   }
 }
 
