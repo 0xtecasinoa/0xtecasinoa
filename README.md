@@ -13,6 +13,12 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=0xtecasinoa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+[![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=0xtecasinoa)](#)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 # 好きな言葉 👍
 
 ```AI & Web & APP
