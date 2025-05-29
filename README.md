@@ -55,3 +55,6 @@ fn main() {
 
 [![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=bjmmtin)](#)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
